@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #002D62;
+  color: #EB6E1F;
+}
+h1 {
+  font-size: 130px;
+}
+.center-container {
+  text-align: center;
+  margin-top: 200px;
+}
